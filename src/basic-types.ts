@@ -1,4 +1,4 @@
-const cityName: string = 'London';
+const cityName: string = 'Oranda';
 
 const cityPopulation: number = 8000000;
 
