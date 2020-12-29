@@ -6,6 +6,8 @@
   "scripts": {
     "serve": "webpack-dev-server",
     "build": "webpack",
+    "compile": "tsc",
+    "watch": "tsc-watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,7 +22,9 @@
   },
   "homepage": "https://github.com/gitaro-p/webpack-tutorial#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^4.5.0",
     "ts-loader": "^6.2.2",
+    "tsc-watch": "^4.2.9",
     "typescript": "^4.1.3",
     "webpack": "^4.42.1",
     "webpack-cli": "^3.3.11",
