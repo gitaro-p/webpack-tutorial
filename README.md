@@ -1,7 +1,8 @@
 Webpack+TypeScript
 
 主な関連パッケージのインストール　
-$npm i -D typescript webpack webpack-cli ts-loader html-webpack-plugin
+
+ $npm i -D typescript webpack webpack-cli ts-loader html-webpack-plugin
 
 ・TypeScript...JavaScriptの型付け言語　
 
