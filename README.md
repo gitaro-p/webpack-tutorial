@@ -4,14 +4,23 @@ Webpack+TypeScript
 $npm i -D typescript webpack webpack-cli ts-loader html-webpack-plugin
 
 ・TypeScript
+
 ...JavaScriptの型付け言語
+
 ・webpack
+
 ...バンドルツール
+
 ・webpack-cli
+
 ... webpackをコマンドラインから使えるようにするツール
+
 ・ts-loader
+
 ... webpack経由で.tsファイルをトランスパイルする
+
 ・html-webpack-plugin
+
 ... .htmlファイルをdistディレクトリに出力
 
 
